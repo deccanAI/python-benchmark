@@ -1,0 +1,27 @@
+I need help creating a comprehensive test case generator function for the following algorithm problem:
+
+You need to take into consideration the efficiency of the running code as well.
+<problem_statement>problem_temp.txt</problem_statement>
+
+The test case generator should:
+1. Include basic hand-crafted test cases covering:
+   - Common/simple cases
+   - Edge cases (empty, single element, etc.)
+   - Corner cases specific to problem constraints
+   - Known tricky scenarios
+
+2. Generate random test cases that:
+   - Cover the full range of input constraints
+   - Have proper verification to ensure expected outputs
+   - Include both valid and invalid cases
+   - Have good distribution across different scenarios
+   - Avoid accidental valid cases when generating invalid ones
+
+3. Return test cases in format:
+   [(input_params, expected_output), ...]
+
+Here's my current (gold) implementation of the main algorithm, this should pass all testcases:
+<gold_file>gold.py</gold_file>
+
+Please help complete the test_cases generator, use <runner_file>runner_example.py</runner_file> to take inspiration on how to structure your final code.
+Write your final testing script to the <runner_file>runner_example.py</runner_file>. Keep it simple.
