@@ -31,9 +31,10 @@ wheels/
 *.swo
 
 # Environment
-.env
+.env*
 .env.local
 *.log
 
 # Project specific
 *.xlsx
+eval *
