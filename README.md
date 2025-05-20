@@ -14,4 +14,4 @@
 - use [utils](utils.py) for sanity checking the packaged code, extracting code and running tests.
 
 ## Results
-Results are compiled in this [spreadsheet](https://docs.google.com/spreadsheets/d/1juERsHvCsjG1WwbmINwIBRjMgyenjj_b2BqlzRarhIU/edit?usp=sharing).
+Results are compiled in this [spreadsheet](https://docs.google.com/spreadsheets/d/1juERsHvCsjG1WwbmINwIBRjMgyenjj_b2BqlzRarhIU/edit?usp=sharing) [Access Restricted]
